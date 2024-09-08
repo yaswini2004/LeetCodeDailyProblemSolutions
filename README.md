@@ -59,6 +59,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/yaswini2004/self_practise/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 ## Tree
 |  |
