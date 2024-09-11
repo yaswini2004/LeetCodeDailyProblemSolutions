@@ -81,4 +81,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/yaswini2004/self_practise/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
