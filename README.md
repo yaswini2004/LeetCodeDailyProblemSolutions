@@ -57,6 +57,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/yaswini2004/self_practise/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yaswini2004/self_practise/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -128,4 +129,16 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yaswini2004/self_practise/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yaswini2004/self_practise/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yaswini2004/self_practise/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
