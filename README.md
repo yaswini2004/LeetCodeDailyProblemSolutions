@@ -88,6 +88,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/yaswini2004/self_practise/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -141,4 +142,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/yaswini2004/self_practise/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/yaswini2004/self_practise/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
