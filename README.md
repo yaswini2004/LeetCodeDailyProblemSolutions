@@ -146,4 +146,5 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yaswini2004/self_practise/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/yaswini2004/self_practise/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
