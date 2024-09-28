@@ -23,6 +23,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yaswini2004/self_practise/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -84,6 +85,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/yaswini2004/self_practise/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
 ## Tree
@@ -158,6 +160,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -166,4 +169,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
