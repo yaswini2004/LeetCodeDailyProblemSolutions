@@ -27,6 +27,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yaswini2004/self_practise/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yaswini2004/self_practise/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -76,6 +77,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0432-all-oone-data-structure](https://github.com/yaswini2004/self_practise/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yaswini2004/self_practise/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -118,6 +120,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yaswini2004/self_practise/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sorting
