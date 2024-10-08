@@ -77,6 +77,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/yaswini2004/self_practise/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yaswini2004/self_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yaswini2004/self_practise/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
@@ -145,6 +146,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,10 +204,12 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [1923-sentence-similarity-iii](https://github.com/yaswini2004/self_practise/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
