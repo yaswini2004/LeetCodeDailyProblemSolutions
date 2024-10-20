@@ -79,6 +79,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yaswini2004/self_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/yaswini2004/self_practise/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yaswini2004/self_practise/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yaswini2004/self_practise/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -168,6 +169,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/yaswini2004/self_practise/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yaswini2004/self_practise/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
@@ -219,6 +221,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yaswini2004/self_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/yaswini2004/self_practise/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/yaswini2004/self_practise/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
