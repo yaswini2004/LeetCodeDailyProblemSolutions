@@ -33,6 +33,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/yaswini2004/self_practise/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/yaswini2004/self_practise/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -65,6 +66,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
@@ -178,12 +180,14 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yaswini2004/self_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
