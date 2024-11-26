@@ -292,4 +292,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/yaswini2004/self_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/yaswini2004/self_practise/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
