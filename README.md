@@ -82,6 +82,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/yaswini2004/self_practise/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yaswini2004/self_practise/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yaswini2004/self_practise/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yaswini2004/self_practise/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yaswini2004/self_practise/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +304,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1755-defuse-the-bomb](https://github.com/yaswini2004/self_practise/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yaswini2004/self_practise/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yaswini2004/self_practise/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
