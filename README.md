@@ -155,6 +155,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yaswini2004/self_practise/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -165,6 +166,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yaswini2004/self_practise/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yaswini2004/self_practise/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yaswini2004/self_practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
@@ -175,6 +177,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -183,6 +186,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yaswini2004/self_practise/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
