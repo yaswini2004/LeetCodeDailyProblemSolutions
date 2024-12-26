@@ -21,6 +21,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
@@ -235,6 +236,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
@@ -337,6 +339,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/yaswini2004/self_practise/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Graph
 |  |
