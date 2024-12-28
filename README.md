@@ -24,6 +24,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yaswini2004/self_practise/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
@@ -238,6 +239,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
