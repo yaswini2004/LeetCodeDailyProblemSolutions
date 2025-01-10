@@ -29,6 +29,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0780-max-chunks-to-make-sorted](https://github.com/yaswini2004/self_practise/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/yaswini2004/self_practise/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1063-best-sightseeing-pair) |
@@ -118,6 +119,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0214-shortest-palindrome](https://github.com/yaswini2004/self_practise/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
+| [0952-word-subsets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yaswini2004/self_practise/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/yaswini2004/self_practise/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yaswini2004/self_practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -146,6 +148,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0432-all-oone-data-structure](https://github.com/yaswini2004/self_practise/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yaswini2004/self_practise/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yaswini2004/self_practise/tree/master/1468-check-if-n-and-its-double-exist) |
