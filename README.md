@@ -134,6 +134,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yaswini2004/self_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
@@ -261,6 +262,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1502-construct-k-palindrome-strings](https://github.com/yaswini2004/self_practise/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
@@ -344,6 +346,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1197-parsing-a-boolean-expression](https://github.com/yaswini2004/self_practise/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Two Pointers
