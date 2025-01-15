@@ -233,6 +233,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yaswini2004/self_practise/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2509-minimize-xor](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/yaswini2004/self_practise/tree/master/3394-minimum-array-end) |
 ## Counting
@@ -271,6 +272,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
