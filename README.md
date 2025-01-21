@@ -52,6 +52,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1972-rotating-the-box](https://github.com/yaswini2004/self_practise/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yaswini2004/self_practise/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -79,6 +80,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/yaswini2004/self_practise/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yaswini2004/self_practise/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -114,6 +116,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
