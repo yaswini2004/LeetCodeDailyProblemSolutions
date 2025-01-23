@@ -37,6 +37,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yaswini2004/self_practise/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yaswini2004/self_practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yaswini2004/self_practise/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yaswini2004/self_practise/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -78,6 +79,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/yaswini2004/self_practise/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yaswini2004/self_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
@@ -212,6 +214,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yaswini2004/self_practise/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yaswini2004/self_practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/yaswini2004/self_practise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -222,6 +225,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -250,6 +254,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/yaswini2004/self_practise/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -424,4 +429,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
