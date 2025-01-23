@@ -47,6 +47,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1755-defuse-the-bomb](https://github.com/yaswini2004/self_practise/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/yaswini2004/self_practise/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/yaswini2004/self_practise/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/yaswini2004/self_practise/tree/master/1923-sentence-similarity-iii) |
@@ -80,6 +81,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
+| [1876-map-of-highest-peak](https://github.com/yaswini2004/self_practise/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/yaswini2004/self_practise/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yaswini2004/self_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
@@ -227,6 +229,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/yaswini2004/self_practise/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
