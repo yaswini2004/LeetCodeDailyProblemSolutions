@@ -191,6 +191,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yaswini2004/self_practise/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
@@ -300,6 +301,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yaswini2004/self_practise/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -319,6 +321,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yaswini2004/self_practise/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
