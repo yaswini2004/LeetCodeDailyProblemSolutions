@@ -218,6 +218,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yaswini2004/self_practise/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yaswini2004/self_practise/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yaswini2004/self_practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
@@ -231,6 +232,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -425,6 +427,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/yaswini2004/self_practise/tree/master/2201-valid-arrangement-of-pairs) |
 | [3189-find-champion-ii](https://github.com/yaswini2004/self_practise/tree/master/3189-find-champion-ii) |
@@ -450,4 +453,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
