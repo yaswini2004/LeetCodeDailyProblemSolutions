@@ -74,6 +74,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2792-neighboring-bitwise-xor](https://github.com/yaswini2004/self_practise/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yaswini2004/self_practise/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yaswini2004/self_practise/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -286,6 +287,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -449,6 +451,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
 |  |
 | ------- |
