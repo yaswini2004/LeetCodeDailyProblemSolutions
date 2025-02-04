@@ -20,6 +20,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/yaswini2004/self_practise/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0494-target-sum) |
@@ -268,6 +269,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/yaswini2004/self_practise/tree/master/0137-single-number-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yaswini2004/self_practise/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yaswini2004/self_practise/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yaswini2004/self_practise/tree/master/1786-count-the-number-of-consistent-strings) |
