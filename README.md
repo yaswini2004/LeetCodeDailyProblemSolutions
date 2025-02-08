@@ -195,6 +195,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
@@ -388,6 +389,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -439,6 +442,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
