@@ -116,6 +116,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
@@ -424,6 +426,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
