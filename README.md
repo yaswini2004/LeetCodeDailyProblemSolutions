@@ -110,6 +110,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yaswini2004/self_practise/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yaswini2004/self_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yaswini2004/self_practise/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
@@ -163,6 +164,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/yaswini2004/self_practise/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yaswini2004/self_practise/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -422,6 +424,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1002-maximum-width-ramp](https://github.com/yaswini2004/self_practise/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/yaswini2004/self_practise/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
