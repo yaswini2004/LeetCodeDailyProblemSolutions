@@ -67,6 +67,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yaswini2004/self_practise/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -202,6 +203,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
@@ -321,6 +323,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0780-max-chunks-to-make-sorted](https://github.com/yaswini2004/self_practise/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/yaswini2004/self_practise/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yaswini2004/self_practise/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -453,6 +456,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
