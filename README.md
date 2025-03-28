@@ -80,6 +80,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2564-most-profitable-path-in-a-tree](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -111,6 +112,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -300,6 +302,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -358,6 +361,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
@@ -473,6 +477,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -489,6 +494,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Sliding Window
@@ -540,6 +546,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0854-making-a-large-island](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
