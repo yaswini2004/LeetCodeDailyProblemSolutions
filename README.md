@@ -88,6 +88,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/yaswini2004/self_practise/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -244,6 +245,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -362,6 +364,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yaswini2004/self_practise/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
@@ -377,6 +380,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2300-construct-string-with-repeat-limit](https://github.com/yaswini2004/self_practise/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -466,6 +470,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yaswini2004/self_practise/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yaswini2004/self_practise/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3447-clear-digits) |
 ## Two Pointers
@@ -483,6 +488,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/yaswini2004/self_practise/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/yaswini2004/self_practise/tree/master/1002-maximum-width-ramp) |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
@@ -563,4 +569,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
