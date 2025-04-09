@@ -100,6 +100,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yaswini2004/self_practise/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yaswini2004/self_practise/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +240,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
