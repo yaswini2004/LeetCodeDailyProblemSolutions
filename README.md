@@ -240,6 +240,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -254,6 +255,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2998-count-symmetric-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -590,4 +592,9 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
