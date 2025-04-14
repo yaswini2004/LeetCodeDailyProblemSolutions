@@ -49,6 +49,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1497-design-a-stack-with-increment-operation](https://github.com/yaswini2004/self_practise/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/yaswini2004/self_practise/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/yaswini2004/self_practise/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -593,6 +594,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
