@@ -66,6 +66,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
@@ -145,6 +146,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/yaswini2004/self_practise/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -461,11 +463,13 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yaswini2004/self_practise/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -558,6 +562,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Brainteaser
 |  |
@@ -601,4 +606,12 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
