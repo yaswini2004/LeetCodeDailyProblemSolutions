@@ -66,6 +66,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2249-count-the-hidden-sequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -167,6 +168,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
