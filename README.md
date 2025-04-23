@@ -228,6 +228,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1364-tuple-with-same-product](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yaswini2004/self_practise/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yaswini2004/self_practise/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/yaswini2004/self_practise/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yaswini2004/self_practise/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/yaswini2004/self_practise/tree/master/1694-make-sum-divisible-by-p) |
@@ -260,6 +261,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/yaswini2004/self_practise/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
