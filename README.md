@@ -94,6 +94,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/yaswini2004/self_practise/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -248,6 +249,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -546,6 +548,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yaswini2004/self_practise/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yaswini2004/self_practise/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
