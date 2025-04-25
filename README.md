@@ -95,6 +95,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2792-neighboring-bitwise-xor](https://github.com/yaswini2004/self_practise/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -174,6 +175,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2915-count-of-interesting-subarrays) |
 ## String
 |  |
 | ------- |
@@ -250,6 +252,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2685-first-completely-painted-row-or-column](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yaswini2004/self_practise/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
