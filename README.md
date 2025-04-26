@@ -78,6 +78,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2478-longest-nice-subarray](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yaswini2004/self_practise/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
@@ -491,6 +492,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -548,6 +550,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/yaswini2004/self_practise/tree/master/1755-defuse-the-bomb) |
 | [2478-longest-nice-subarray](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yaswini2004/self_practise/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -633,4 +636,8 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
