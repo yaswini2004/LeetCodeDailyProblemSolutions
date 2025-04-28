@@ -71,6 +71,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/yaswini2004/self_practise/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
@@ -155,6 +156,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/yaswini2004/self_practise/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yaswini2004/self_practise/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -174,6 +176,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2145-grid-game](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -550,6 +553,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/yaswini2004/self_practise/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yaswini2004/self_practise/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
