@@ -42,6 +42,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yaswini2004/self_practise/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yaswini2004/self_practise/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yaswini2004/self_practise/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -271,6 +272,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0070-climbing-stairs](https://github.com/yaswini2004/self_practise/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yaswini2004/self_practise/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yaswini2004/self_practise/tree/master/0539-minimum-time-difference) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2050-count-good-numbers) |
