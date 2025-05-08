@@ -117,6 +117,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yaswini2004/self_practise/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yaswini2004/self_practise/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
@@ -137,6 +138,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -563,6 +565,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -598,6 +601,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3189-find-champion-ii](https://github.com/yaswini2004/self_practise/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yaswini2004/self_practise/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -625,6 +629,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
