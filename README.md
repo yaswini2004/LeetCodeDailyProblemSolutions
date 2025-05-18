@@ -447,6 +447,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1025-minimum-cost-for-tickets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yaswini2004/self_practise/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2554-minimum-total-distance-traveled](https://github.com/yaswini2004/self_practise/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yaswini2004/self_practise/tree/master/2586-longest-square-streak-in-an-array) |
