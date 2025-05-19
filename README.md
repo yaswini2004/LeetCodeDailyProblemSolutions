@@ -111,6 +111,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yaswini2004/self_practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3429-special-array-i) |
@@ -292,6 +293,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2998-count-symmetric-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
 |  |
@@ -419,6 +421,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2699-count-the-number-of-fair-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
