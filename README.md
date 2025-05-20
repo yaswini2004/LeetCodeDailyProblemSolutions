@@ -120,6 +120,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/yaswini2004/self_practise/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
@@ -193,6 +194,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3639-zero-array-transformation-i) |
 ## String
 |  |
 | ------- |
