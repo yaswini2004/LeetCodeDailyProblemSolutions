@@ -20,6 +20,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0137-single-number-ii](https://github.com/yaswini2004/self_practise/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
@@ -125,6 +126,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -238,6 +240,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0432-all-oone-data-structure](https://github.com/yaswini2004/self_practise/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0768-partition-labels) |
