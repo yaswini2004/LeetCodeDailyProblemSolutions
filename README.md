@@ -122,6 +122,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
@@ -197,6 +198,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2691-count-vowel-strings-in-ranges](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
 | ------- |
@@ -427,6 +429,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -445,6 +448,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yaswini2004/self_practise/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2509-minimize-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3647-zero-array-transformation-iii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -576,6 +580,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yaswini2004/self_practise/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
