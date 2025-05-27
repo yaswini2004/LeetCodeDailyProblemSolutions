@@ -302,6 +302,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [2448-count-number-of-bad-pairs](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/3548-find-the-count-of-good-integers) |
