@@ -347,6 +347,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1558-course-schedule-iv](https://github.com/yaswini2004/self_practise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/yaswini2004/self_practise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yaswini2004/self_practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/yaswini2004/self_practise/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -626,6 +627,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1558-course-schedule-iv](https://github.com/yaswini2004/self_practise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/yaswini2004/self_practise/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yaswini2004/self_practise/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3189-find-champion-ii](https://github.com/yaswini2004/self_practise/tree/master/3189-find-champion-ii) |
