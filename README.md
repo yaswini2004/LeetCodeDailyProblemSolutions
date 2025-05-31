@@ -33,6 +33,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0854-making-a-large-island](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/yaswini2004/self_practise/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/yaswini2004/self_practise/tree/master/0906-walking-robot-simulation) |
+| [0945-snakes-and-ladders](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/yaswini2004/self_practise/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -132,6 +133,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0073-set-matrix-zeroes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yaswini2004/self_practise/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -363,6 +365,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0684-redundant-connection](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
