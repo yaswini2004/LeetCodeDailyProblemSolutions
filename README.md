@@ -21,6 +21,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/yaswini2004/self_practise/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0407-trapping-rain-water-ii) |
@@ -450,6 +451,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/yaswini2004/self_practise/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yaswini2004/self_practise/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0768-partition-labels) |
