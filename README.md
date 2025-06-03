@@ -49,6 +49,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [1364-tuple-with-same-product](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yaswini2004/self_practise/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yaswini2004/self_practise/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -369,6 +370,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | [0945-snakes-and-ladders](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/yaswini2004/self_practise/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/yaswini2004/self_practise/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/yaswini2004/self_practise/tree/master/1558-course-schedule-iv) |
@@ -628,6 +630,7 @@ This repository is for personal learning and practice purposes. Feel free to use
 | ------- |
 | [0684-redundant-connection](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yaswini2004/LeetCodeDailyProblemSolutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yaswini2004/self_practise/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/yaswini2004/self_practise/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/yaswini2004/self_practise/tree/master/2201-valid-arrangement-of-pairs) |
